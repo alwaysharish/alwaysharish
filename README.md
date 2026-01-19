@@ -23,11 +23,13 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD automation**, with a str
 
 ### 🔹 DevOps Engineer — *Tata Consultancy Services (TCS)*
 📍 India | 🗓️ 2022 – Present 
-ted legacy VM-based applications to **Kubernetes microservices**, improving scalability and deployment speed by ~40%
+
+- Migrated legacy VM-based applications to **Kubernetes microservices**, improving scalability and deployment speed by ~40%
 - Implemented **build-once, run-anywhere** strategy using Docker & Kubernetes
 - Supported cloud migration from on-prem to **AWS** using Terraform
 - Managed CI/CD pipelines and production deployments with **zero downtime**
 - Assisted senior engineers in designing secure and scalable AWS architectures
+
 
 ---
 
