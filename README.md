@@ -1,4 +1,4 @@
-- Migra<img width="1584" height="396" alt="Brown and White Simple Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/ab80f736-cc6a-429f-82db-27c2d36c488b" />
+<img width="1584" height="396" alt="Brown and White Simple Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/ab80f736-cc6a-429f-82db-27c2d36c488b" />
 # Hi 👋, I'm Harish Maddila
 
 ### 🚀 DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform 
