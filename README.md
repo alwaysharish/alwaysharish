@@ -35,8 +35,6 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD automation**, with a str
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Stack
-
 ### 🖥️ Operating Systems
 - RHEL, CentOS
 
