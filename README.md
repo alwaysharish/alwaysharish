@@ -35,6 +35,43 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD automation**, with a str
 
 ## 🧰 Tech Stack
 
+## 🧰 Tech Stack
+
+### 🖥️ Operating Systems
+- RHEL, CentOS
+
+### ☁️ Cloud (AWS)
+- EC2, S3, IAM, RDS, EKS, ECR  
+- ALB, ACM, Route53, VPC, Subnets  
+- Auto Scaling, AWS Lambda, EventBridge
+
+### 🔁 CI/CD
+- Jenkins, Git, GitHub
+
+### 📦 Containers & Orchestration
+- Docker, Kubernetes, Helm
+
+### 🏗️ Infrastructure as Code (IaC)
+- Terraform
+
+### ⚙️ Configuration Management
+- Ansible
+
+### 📊 Monitoring & Logging
+- Prometheus, Grafana  
+- Elasticsearch, Logstash, Kibana (ELK Stack)
+
+### 🧑‍💻 Scripting
+- Shell, Python
+
+### 🔐 Security Tools
+- SonarQube, Veracode  
+- Metasploit, Container Image Scanning
+
+### 🌐 Networking
+- VPC, Route53, CDN
+
+
 ---
 
 ## 📫 Connect with Me
