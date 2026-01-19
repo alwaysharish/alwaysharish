@@ -1,6 +1,7 @@
+- Migra<img width="1584" height="396" alt="Brown and White Simple Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/ab80f736-cc6a-429f-82db-27c2d36c488b" />
 # Hi 👋, I'm Harish Maddila
 
-### 🚀 DevOps Engineer | Cloud & Kubernetes Specialist
+### 🚀 DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform 
 
 I’m a DevOps Engineer with 3+ years of experience in building, automating, and operating scalable cloud infrastructure.  
 I specialize in **AWS, Kubernetes, Terraform, and CI/CD automation**, with a strong focus on **reliability, security, and zero-downtime deployments**.
@@ -21,9 +22,8 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD automation**, with a str
 ## 🏢 Career Snapshot
 
 ### 🔹 DevOps Engineer — *Tata Consultancy Services (TCS)*
-📍 India | 🗓️ 2022 – Present  
-
-- Migrated legacy VM-based applications to **Kubernetes microservices**, improving scalability and deployment speed by ~40%
+📍 India | 🗓️ 2022 – Present 
+ted legacy VM-based applications to **Kubernetes microservices**, improving scalability and deployment speed by ~40%
 - Implemented **build-once, run-anywhere** strategy using Docker & Kubernetes
 - Supported cloud migration from on-prem to **AWS** using Terraform
 - Managed CI/CD pipelines and production deployments with **zero downtime**
