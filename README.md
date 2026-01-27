@@ -21,7 +21,7 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD automation**, with a str
 
 ## 🏢 Career Snapshot
 
-### 🔹 DevOps Engineer — *Tata Consultancy Services (TCS)*
+### 🔹 DevOps Engineer — *Adiel Technologies*
 📍 India | 🗓️ 2022 – Present 
 
 - Migrated legacy VM-based applications to **Kubernetes microservices**, improving scalability and deployment speed by ~40%
